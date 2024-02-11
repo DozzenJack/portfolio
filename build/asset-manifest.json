@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58126cb2.css",
+    "main.js": "/static/js/main.88adab65.js",
+    "static/media/reactWeather.jpg": "/static/media/reactWeather.036566d0c2fb44cfbb32.jpg",
+    "static/media/react.png": "/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/tailwind.png": "/static/media/tailwind.3549d9e451d7abb96934.png",
+    "static/media/hero.png": "/static/media/hero.c2c2d2f67c0d79523000.png",
+    "static/media/reactSmooth.jpg": "/static/media/reactSmooth.fe85a37a4756c9dcecf9.jpg",
+    "static/media/installNode.jpg": "/static/media/installNode.fe459a983b890b32748e.jpg",
+    "static/media/nextjs.png": "/static/media/nextjs.ab8293c95faf26dc5e3e.png",
+    "static/media/reactParallax.jpg": "/static/media/reactParallax.94bb080b19b893381b27.jpg",
+    "static/media/navbar.jpg": "/static/media/navbar.71ef5d6fd577455d1f2a.jpg",
+    "static/media/arrayDestruct.jpg": "/static/media/arrayDestruct.c98ba44a4a26480fd340.jpg",
+    "static/media/html.png": "/static/media/html.c77fed674c34630bf6ef.png",
+    "static/media/css.png": "/static/media/css.286a9900f844f7c0ed5f.png",
+    "static/media/javascript.png": "/static/media/javascript.266bd9fb2663dcc057b4.png",
+    "index.html": "/index.html",
+    "main.58126cb2.css.map": "/static/css/main.58126cb2.css.map",
+    "main.88adab65.js.map": "/static/js/main.88adab65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58126cb2.css",
+    "static/js/main.88adab65.js"
+  ]
+}
